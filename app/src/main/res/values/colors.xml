@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0F111A</color>
+    <color name="card">#1A1D2E</color>
+    <color name="card_stroke">#2A2D3E</color>
+    <color name="accent">#7C4DFF</color>
+    <color name="accent2">#00E676</color>
+    <color name="accent_red">#FF5252</color>
+    <color name="text">#FFFFFF</color>
+    <color name="text_sec">#9AA0B4</color>
+    <color name="switch_track">#3A3D4E</color>
+    <color name="nav_bg">#12141F</color>
+</resources>
